@@ -1,0 +1,11 @@
+{
+  "name": "yapin-server-stats-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
