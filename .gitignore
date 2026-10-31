@@ -5,4 +5,5 @@ config.cfg
 .env.*
 !.env.example
 node_modules/
+.venv/
 __pycache__/
